@@ -1,0 +1,44 @@
+body {
+  background: #333 !important;
+}
+.player {
+  max-width: 400px;
+  overflow: hidden;
+  background: #7e7c7c57;
+}
+
+.list-group {
+  --bs-list-group-color: #fff;
+  --bs-list-group-bg: transparent;
+  --bs-list-group-action-hover-color: #495057;
+  --bs-list-group-action-hover-bg: #f8f9faa1;
+}
+
+.progress {
+  height: 5px;
+}
+
+.progress-bar {
+  background: #00FFAB;
+}
+
+.btn-sm {
+  height: 50px;
+  width: 50px;
+}
+
+.btn-lg {
+  width: 100px;
+  height: 100px;
+}
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
+.controls .btn {
+  background: #00FFAB;
+}
+
+.controls .btn:hover{
+    background: #14C38E;
+}
